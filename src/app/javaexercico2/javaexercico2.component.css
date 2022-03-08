@@ -1,0 +1,12 @@
+#estilo2{
+    border-top: groove 5px purple;
+    border-bottom: groove 5px yellowgreen;
+    border-left: groove  5px palevioletred;
+    border-right: groove 5px rgb(red, green, blue);
+   }
+ 
+#label2{
+    font-size: 20px;
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}   

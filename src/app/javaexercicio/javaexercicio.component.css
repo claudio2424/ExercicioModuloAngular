@@ -1,0 +1,11 @@
+#estilo1{
+  border-top: double 10px red;
+  border-bottom: double 10px blue;
+  border-left: double 8px yellow;
+  border-right: double 10px green;
+ }
+ #estilolabel{
+ font-size: 20px;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ text-decoration: underline;
+ }
